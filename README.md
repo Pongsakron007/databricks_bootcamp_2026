@@ -93,3 +93,6 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 Hi, I’m **Baraa Khatib Salkini**, also known as **Data With Baraa**.
 I’m a senior data professional and educator with over 17 years of industry experience, working across data engineering, analytics, and modern data platforms. I’ve led large-scale data projects in real companies and now focus on teaching practical, real-world data skills through my courses, YouTube content, and bootcamps.
 My goal is simple: help you understand how data actually works in real systems, not just how to write code.
+
+----
+I need to chang this later.
